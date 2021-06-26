@@ -1,0 +1,6 @@
+1) IsUnique
+2) OneAway
+3) PalindromePermutation
+4) RotateMatrix
+5) ZeroMatrix
+6) StringRotation
